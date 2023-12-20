@@ -1,7 +1,7 @@
 # Predicting English Premier League Soccer Match Winners
 
 ### Introduction: 
-We built a machine learning model that would help us predict English Premier League (EPL) soccer match outcomes. Our main aim for this model is to provide clear insights into future EPL matches. The tool leverages a predictive model to forecast winners. Through a series of different steps, we built our machine learning model by utilizing Python libraries, eventually developing our own prediction tool.
+We built a machine learning model that would help us predict English Premier League (EPL) soccer match outcomes. Our main aim for this model is to provide clear insights into future EPL matches. The tool leverages a predictive model to forecast winners. Through a series of different steps, we built our machine learning model by utilizing various Python libraries, eventually developing our own prediction tool.
 
 ### Step 1: Data 
 Our first step was to load a CSV file (matches.csv) that contains over 1000 matches. The file contains information about the football matches such as the date/time of the match, the teams that played, and the result of the match. Once we fully explored our dataset, we split the data into training and testing sets based on the date.
